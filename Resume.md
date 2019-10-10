@@ -69,9 +69,9 @@ Props Artisan, Fall 2018
 FX Technician, 2016 - 2018
 <br>
 <ul>
-+Created special effects for commercials, theater, film, television, print ads
-+Lead confetti, pyrotechnics, wind, water, fire, snow, and blood effects
-+Repaired, maintained, and procured equipment used to create special effects
+<li>Created special effects for commercials, theater, film, television, print ads</li>
+<li>Lead confetti, pyrotechnics, wind, water, fire, snow, and blood effects</li>
+<li>Repaired, maintained, and procured equipment used to create special effects</li>
 </ul>
 
 #### EDUCATION
